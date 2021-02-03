@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Bathsoap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Care" sketch:type="MSLayerGroup" transform="translate(-718.000000, -722.000000)" stroke="#ff4500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Bathsoap" transform="translate(735.000000, 724.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,20 L10.0418428,15 L21.012106,15 L30,20 L28.3449505,48.9633658 C28.1544396,52.2973068 25.2911232,55 21.9369686,55 L8.06303139,55 C4.71451161,55 1.84555686,52.297245 1.65504948,48.9633658 L0,20 Z" id="Rectangle-1376"></path>
+                <path d="M10,4.80269317 L10,4 L21,4 L21,4.80269317 L21,4.80269317 C19.8043973,5.84012143 19,7.77915293 19,10 C19,12.2208471 19.8043973,14.1598786 21,15.1973068 L21,17 L10,17 L10,15.1973068 C11.1956027,14.1598786 12,12.2208471 12,10 C12,7.77915293 11.1956027,5.84012143 10,4.80269317 Z" id="Rectangle-1377"></path>
+                <rect id="Rectangle-1378" x="7" y="0" width="17" height="6" rx="14"></rect>
+                <path d="M2.08280637,36.2814054 L28.0000007,26" id="Path-2642"></path>
+                <path d="M3.00000002,43 L28.0000007,33" id="Path-2642"></path>
+            </g>
+        </g>
+    </g>
+</svg>

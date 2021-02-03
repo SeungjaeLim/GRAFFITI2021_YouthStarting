@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Eye</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Medical" sketch:type="MSLayerGroup" transform="translate(-20.000000, -357.000000)" stroke-linecap="round" stroke="#ffbb94" stroke-width="2">
+            <g id="Eye" transform="translate(22.000000, 373.000000)" sketch:type="MSShapeGroup">
+                <path d="M55,14.4280394 C49.1669938,5.72723702 39.242648,0 27.9806343,0 C16.7186206,0 6.79427481,5.72723702 0.961268605,14.4280394 C6.79427481,23.1288417 16.7186206,28.8560787 27.9806343,28.8560787 C39.242648,28.8560787 49.1669938,23.1288417 55,14.4280394 Z" id="Oval-257"></path>
+                <circle id="Oval-259" cx="28" cy="14" r="11"></circle>
+                <circle id="Oval-260" cx="28" cy="14" r="3"></circle>
+                <path d="M28,7 C24.1340068,7 21,10.1340068 21,14" id="Oval-261"></path>
+            </g>
+        </g>
+    </g>
+</svg>
